@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T09:31:00.353213+00:00",
-  "totalJobs": 105,
+  "lastUpdated": "2026-09-01T08:28:00.884398+00:00",
+  "totalJobs": 101,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -922,21 +922,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48766112",
-      "company": "We are hiring full",
-      "position": "Software Engineer",
-      "location": "On-site",
-      "remote": false,
-      "salary": "",
-      "description": "Our product helps everyone make better legal decisions by better understanding the law. About one-third of important U.S. law is not accessible via ChatGPT or Claude. Much AI-generated legal analysis is wrong. We are building one of the largest collections of U.S. law in existence and using AI to...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48766112",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48766112",
-      "postedAt": "2026-07-02T19:19:19+00:00",
-      "tags": [],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48761457",
       "company": "Runway",
       "position": "Trust & Safety Engineer",
@@ -1264,26 +1249,6 @@
       "companyIcon": ""
     },
     {
-      "id": "anth-5251609008",
-      "company": "Anthropic",
-      "position": "Technical Program Manager, Apps Platform",
-      "location": "San Francisco, CA | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "Anthropic is investing in shared platform capabilities that power Claude across our consumer and developer products: the common foundation that Claude, Cowork, Claude Code, and future surfaces are built on. We're hiring a Technical Program Manager to be the connective tissue for this effort,...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
-      "postedAt": "2026-06-09T04:24:59-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "hn-48426455",
       "company": "Comvex",
       "position": "Platform Engineer",
@@ -1301,28 +1266,6 @@
         "Go",
         "AWS",
         "Django"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48416066",
-      "company": "vvd",
-      "position": "Design Engineer",
-      "location": "Remote (work from anywhere)",
-      "remote": true,
-      "salary": "",
-      "description": "We’re building tools for storytellers, worldbuilders, writers, and creators. We’re looking for a Design Engineer who can design and build polished product experiences end-to-end. You should care deeply about taste, interaction, motion, and frontend craft, but also understand enough about APIs,...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48416066",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48416066",
-      "postedAt": "2026-06-05T18:04:31+00:00",
-      "tags": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Go",
-        "Claude Code",
-        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -1423,23 +1366,6 @@
         "Rust",
         "Claude Code",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48383195",
-      "company": "Neuralk AI",
-      "position": "Software Engineer",
-      "location": "Full-time",
-      "remote": false,
-      "salary": "",
-      "description": "We are a seed stage startup building Tabular Foundation Models (TFM). This is an emerging space with huge potential. LLM's like Claude take text as input and produce text. Model's like nano banana take text as input and produce images. Tabular Foundation Models take rows/columns as input, and...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48383195",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48383195",
-      "postedAt": "2026-06-03T12:38:50+00:00",
-      "tags": [
-        "Python"
       ],
       "companyIcon": ""
     },
