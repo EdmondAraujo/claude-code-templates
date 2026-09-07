@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T07:45:16.416819+00:00",
-  "totalJobs": 102,
+  "lastUpdated": "2026-09-07T08:05:13.201244+00:00",
+  "totalJobs": 96,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -107,47 +107,6 @@
         "React",
         "Azure",
         "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-49532259",
-      "company": "cloro",
-      "position": "Software Engineer",
-      "location": "REMOTE (EU timezones)",
-      "remote": true,
-      "salary": "$80k-150k",
-      "description": "cloro is one API for search and AI answers. You send a query, we return Google, Google News, ChatGPT, Perplexity, Gemini, Grok and Copilot results as structured fields: the answer, the sources it cited, and the position each result held. Teams use it to measure whether their brand shows up in AI...",
-      "applyUrl": "https://news.ycombinator.com/item?id=49532259",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=49532259",
-      "postedAt": "2026-09-02T05:54:47+00:00",
-      "tags": [
-        "Claude Code",
-        "Copilot"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-49530116",
-      "company": "Mattermost",
-      "position": "Senior Full Stack Engineer",
-      "location": "Remote (US and Canada)",
-      "remote": true,
-      "salary": "$142,723 - $172,723",
-      "description": "Mattermost ( https://mattermost.com ) is an open-core collaboration and workflow automation platform for air-gapped, on-prem and private clouds. Our customers are in defense, intelligence, security and critical infrastructure, including the USAF and NASA. Y Combinator led our Series B, their...",
-      "applyUrl": "https://news.ycombinator.com/item?id=49530116",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=49530116",
-      "postedAt": "2026-09-02T00:12:24+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Go",
-        "PostgreSQL",
-        "Claude Code",
-        "Cursor",
-        "Redis"
       ],
       "companyIcon": ""
     },
@@ -439,28 +398,6 @@
       "tags": [
         "Rust",
         "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5394948008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Platform Connectivity",
-      "location": "London, UK; San Francisco, CA",
-      "remote": false,
-      "salary": "",
-      "description": "Our mission on the Connectivity team is to make Claude the most connected AI. As agents take on more real-world work, we're taking a leading role in defining how they get access to external systems — safely, with the right permissions, and in ways enterprises can trust. We ship standards and...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008",
-      "postedAt": "2026-08-18T21:02:33-04:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
         "AWS",
         "Claude Code",
         "Anthropic"
@@ -1016,27 +953,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48751913",
-      "company": "ALBERT",
-      "position": "Software Engineer",
-      "location": "REMOTE ALMOST ANYWHERE IN THE WORLD",
-      "remote": true,
-      "salary": "$750k",
-      "description": "We're a consumer fintech with 20M+ users who trust us to budget, save, invest, and bank in one place. Profitable for 4+ years. And as of today, our average employee tenure is 3.6 years, a number you almost never see in startup tech, and one we're quietly proud of. People stay because the work is...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48751913",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48751913",
-      "postedAt": "2026-07-01T19:26:03+00:00",
-      "tags": [
-        "React",
-        "Python",
-        "Rust",
-        "PostgreSQL",
-        "React Native"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48750836",
       "company": "Grafana Labs",
       "position": "Staff Software Engineer",
@@ -1380,26 +1296,6 @@
         "Python",
         "Supabase",
         "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48385146",
-      "company": "Catalyst·Wayfare AI",
-      "position": "Lead AI Engineer",
-      "location": "Remote (US)",
-      "remote": true,
-      "salary": "",
-      "description": "AI transformation firm shipping production AI systems for mid-market enterprises in regulated and technical domains — finance, energy, industrials, healthcare. We do not stop at PowerPoint AI strategy. We ship working systems alongside our clients' engineering teams. Small teams, deep expertise,...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48385146",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48385146",
-      "postedAt": "2026-06-03T15:08:14+00:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "Claude Code",
-        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -1984,32 +1880,6 @@
         "AWS",
         "Claude Code",
         "Rails",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5134895008",
-      "company": "Anthropic",
-      "position": "Senior Staff Software Engineer, API",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "Anthropic is seeking an exceptional Senior Staff Software Engineer to join the Claude Developer Platform team and serve as the senior-most individual contributor across API Engineering. Since launch, the Claude API has seen rapid growth and adoption by companies of all sizes to build AI...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
-      "postedAt": "2026-02-26T17:22:21-05:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "Go",
-        "PostgreSQL",
-        "AWS",
-        "GCP",
-        "Azure",
-        "Kubernetes",
-        "Claude Code",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
