@@ -1,12 +1,34 @@
 {
-  "lastUpdated": "2026-09-07T08:05:13.201244+00:00",
-  "totalJobs": 96,
+  "lastUpdated": "2026-09-08T07:56:10.662839+00:00",
+  "totalJobs": 105,
   "sources": [
     "Anthropic",
     "HackerNews",
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "hn-49598051",
+      "company": "BOSS-IQ",
+      "position": "Software Engineer",
+      "location": "REMOTE (worldwide)",
+      "remote": true,
+      "salary": "",
+      "description": "BOSS-IQ is an AI strategic-planning product for owner-operators of small and medium businesses. The boss describes an idea that has been stuck for years; a research-and-question session returns an implementation-ready plan. In production since June, hand-onboarding our first paying customers since...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49598051",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49598051",
+      "postedAt": "2026-09-07T13:13:20+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Rust",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "anth-5415529008",
       "company": "Anthropic",
@@ -107,6 +129,47 @@
         "React",
         "Azure",
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-49532259",
+      "company": "cloro",
+      "position": "Software Engineer",
+      "location": "REMOTE (EU timezones)",
+      "remote": true,
+      "salary": "$80k-150k",
+      "description": "cloro is one API for search and AI answers. You send a query, we return Google, Google News, ChatGPT, Perplexity, Gemini, Grok and Copilot results as structured fields: the answer, the sources it cited, and the position each result held. Teams use it to measure whether their brand shows up in AI...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49532259",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49532259",
+      "postedAt": "2026-09-02T05:54:47+00:00",
+      "tags": [
+        "Claude Code",
+        "Copilot"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-49530116",
+      "company": "Mattermost",
+      "position": "Senior Full Stack Engineer",
+      "location": "Remote (US and Canada)",
+      "remote": true,
+      "salary": "$142,723 - $172,723",
+      "description": "Mattermost ( https://mattermost.com ) is an open-core collaboration and workflow automation platform for air-gapped, on-prem and private clouds. Our customers are in defense, intelligence, security and critical infrastructure, including the USAF and NASA. Y Combinator led our Series B, their...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49530116",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49530116",
+      "postedAt": "2026-09-02T00:12:24+00:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Go",
+        "PostgreSQL",
+        "Claude Code",
+        "Cursor",
+        "Redis"
       ],
       "companyIcon": ""
     },
@@ -403,6 +466,72 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5394948008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Platform Connectivity",
+      "location": "London, UK; San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "Our mission on the Connectivity team is to make Claude the most connected AI. As agents take on more real-world work, we're taking a leading role in defining how they get access to external systems — safely, with the right permissions, and in ways enterprises can trust. We ship standards and...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008",
+      "postedAt": "2026-08-18T21:02:33-04:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "wwr-zeta-global-senior-product-designer-ai",
+      "company": "Zeta Global",
+      "position": "Senior Product Designer, AI",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$160,000 - $180,000",
+      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+      "postedAt": "2026-08-18T20:32:19+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-zeta-global-senior-product-designer-agentic-ai-applications",
+      "company": "Zeta Global",
+      "position": "Senior Product Designer, Agentic AI Applications",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$160,000 - $180,000",
+      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+      "postedAt": "2026-08-18T20:32:19+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "anth-5390877008",
@@ -953,6 +1082,27 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48751913",
+      "company": "ALBERT",
+      "position": "Software Engineer",
+      "location": "REMOTE ALMOST ANYWHERE IN THE WORLD",
+      "remote": true,
+      "salary": "$750k",
+      "description": "We're a consumer fintech with 20M+ users who trust us to budget, save, invest, and bank in one place. Profitable for 4+ years. And as of today, our average employee tenure is 3.6 years, a number you almost never see in startup tech, and one we're quietly proud of. People stay because the work is...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48751913",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48751913",
+      "postedAt": "2026-07-01T19:26:03+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "Rust",
+        "PostgreSQL",
+        "React Native"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48750836",
       "company": "Grafana Labs",
       "position": "Staff Software Engineer",
@@ -1296,6 +1446,26 @@
         "Python",
         "Supabase",
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48385146",
+      "company": "Catalyst·Wayfare AI",
+      "position": "Lead AI Engineer",
+      "location": "Remote (US)",
+      "remote": true,
+      "salary": "",
+      "description": "AI transformation firm shipping production AI systems for mid-market enterprises in regulated and technical domains — finance, energy, industrials, healthcare. We do not stop at PowerPoint AI strategy. We ship working systems alongside our clients' engineering teams. Small teams, deep expertise,...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48385146",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48385146",
+      "postedAt": "2026-06-03T15:08:14+00:00",
+      "tags": [
+        "Python",
+        "Rust",
+        "Claude Code",
+        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -1880,6 +2050,32 @@
         "AWS",
         "Claude Code",
         "Rails",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5134895008",
+      "company": "Anthropic",
+      "position": "Senior Staff Software Engineer, API",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic is seeking an exceptional Senior Staff Software Engineer to join the Claude Developer Platform team and serve as the senior-most individual contributor across API Engineering. Since launch, the Claude API has seen rapid growth and adoption by companies of all sizes to build AI...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
+      "postedAt": "2026-02-26T17:22:21-05:00",
+      "tags": [
+        "Python",
+        "Rust",
+        "Go",
+        "PostgreSQL",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "Claude Code",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
